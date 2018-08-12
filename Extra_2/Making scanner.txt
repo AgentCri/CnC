@@ -1,0 +1,4 @@
+yum update -y
+
+yum install python-paramiko -y
+
