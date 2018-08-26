@@ -10,10 +10,11 @@
 '--'.     /;  :   .'   \ `----'   
   `--'---' |  ,     .-./          
             `--`---'              
-                Server Side By Root Senpai
+                Server Side *Leeched* By Root Senpai
 -------------------------------------------
 Banners: sao, senpai, kirito and asuna
 make sure login file name is login.txt
+
 
 */
 #include <stdio.h>
